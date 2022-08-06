@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=harshitjain17&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=harshitjain17&style=plastic&color=blue" alt=""/>
 </div>
 
 <!--
