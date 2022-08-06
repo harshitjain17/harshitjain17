@@ -1,5 +1,3 @@
-###Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -11,10 +9,10 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=harshitjain1&color=blue&label=PROFILE+VIEWS" alt=""/>
-  <h1>
+  <h3>
     Hey, Folks!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h3>
 </div>
 
 <!--
