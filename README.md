@@ -17,11 +17,11 @@
 
 <hr/>
 
-
 ### :man_technologist: About Me :
-- I am a Sophomore majoring in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Penn State.
-- :telescope: I’m working as a Full Stack Web Development Intern at Penn State.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshitjain17/)
+- :man_student: I am a Sophomore majoring in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Penn State.
+- :telescope: I am working as a Full Stack Web Development Intern at Penn State.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other developers
 
 <hr/>
 
@@ -41,3 +41,7 @@
 <hr/>
 
 ### :fire: My Stats :
+- Total Private Repositories: ```2```
+- Total Public Repositories: ```5```
+
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitjain17&show_icons=true&border_color=2e4058&include_all_commits=true&count_private=true)
