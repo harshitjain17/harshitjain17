@@ -41,7 +41,7 @@
 <hr/>
 
 ### :fire: My Stats :
-- Total Private Repositories: ```2```
+- Total Private Repositories: ```3```
 - Total Public Repositories: ```5```
 - Total Starred Repositories: ```4```
 
