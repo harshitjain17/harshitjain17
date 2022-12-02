@@ -41,9 +41,9 @@
 <hr/>
 
 ### :fire: My Stats :
-- Total Private Repositories: ```4```
+- Total Private Repositories: ```5```
 - Total Public Repositories: ```4```
-- Total Starred Repositories: ```4```
+- Total Starred Repositories: ```5```
 
 <!-- ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitjain17&show_icons=true&border_color=2e4058&include_all_commits=true&count_private=true)
  -->
