@@ -18,8 +18,7 @@
 <hr/>
 
 ### :man_technologist: About Me :
-- :man_student: I am a Sophomore majoring in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Penn State.
-- :telescope: I am working as a Full Stack Web Development Intern at Penn State.
+- :man_student: I am a Junior majoring in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and minoring in Mathematics at Penn State.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 
@@ -41,8 +40,8 @@
 <hr/>
 
 ### :fire: My Stats :
-- Total Private Repositories: ```5```
-- Total Public Repositories: ```4```
+- Total Private Repositories: ```3```
+- Total Public Repositories: ```6```
 - Total Starred Repositories: ```5```
 
 <!-- ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitjain17&show_icons=true&border_color=2e4058&include_all_commits=true&count_private=true)
