@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=harshitjain1&color=blue&label=PROFILE+VIEWS" alt=""/>
   
-  Hey there, I'm Harshit!🧑🏻‍
+  ### Hey there, I'm Harshit!🧑🏻‍
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
 </div>
 
@@ -18,12 +18,13 @@
 
 ### :man_technologist: About Me :
 I'm a junior majoring in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at [The Pennsylvania State University](https://www.psu.edu/) who has always loved the scalability of tech solutions to challenging problems. My goal is to go from someone who observes the tech reforms to the person who creates them.
+
 Apart from being technophile, you will also find me hitting gym. 
 
 <hr/>
 
 ### Languages and Technologies :
-<p>
+<!-- <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Git-important?style=for-the-badge&logo=git&logoColor=F7DF1E"/>
@@ -33,7 +34,7 @@ Apart from being technophile, you will also find me hitting gym.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</p>
+</p> -->
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
