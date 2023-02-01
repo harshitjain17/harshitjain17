@@ -53,8 +53,8 @@ Apart from being technophile, you will also find me hitting gym.
 <hr/>
 
 ### :fire: My Stats :
-- Total Private Repositories: ```6```
-- Total Public Repositories: ```7```
+- Total Private Repositories: ```5```
+- Total Public Repositories: ```8```
 - Total Starred Repositories: ```5```
 
 <div style="display: flex; flex-direction: row; align-items: center;">
