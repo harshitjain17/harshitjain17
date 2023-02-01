@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:harshitj.cs@gmail.com">
-      <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Google Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=harshitjain1&color=blue&label=PROFILE+VIEWS" alt=""/>
@@ -57,4 +57,8 @@ Apart from being technophile, you will also find me hitting gym.
 - Total Public Repositories: ```7```
 - Total Starred Repositories: ```5```
 
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitjain17&show_icons=true&border_color=2e4058&include_all_commits=true&count_private=true)
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitjain17&show_icons=true&border_color=2e4058&include_all_commits=true&count_private=true&theme={})
+
+![Harshit's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={harshitjain17}&theme=vue)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={harshitjain17})
