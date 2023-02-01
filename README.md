@@ -57,8 +57,8 @@ Apart from being technophile, you will also find me hitting gym.
 - Total Public Repositories: ```7```
 - Total Starred Repositories: ```5```
 
-<div style="display: flex; flex-direction: row;">
-  <img style="height: 100%; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=harshitjain17&show_icons=true&border_color=2e4058&include_all_commits=true&count_private=true" />
+<div align="center" dir="auto">
+  <img style="max-width: 100%;" class="img" src="https://github-readme-stats.vercel.app/api?username=harshitjain17&show_icons=true&border_color=2e4058&include_all_commits=true&count_private=true" />
 
-  <img style="height: 100%; width: 50%;" class="img" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitjain17&theme=vue&count_private=true" />
+  <img style="max-width: 100%;" class="img" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitjain17&theme=vue&count_private=true" />
 </div>
