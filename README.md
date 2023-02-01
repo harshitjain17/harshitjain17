@@ -57,8 +57,6 @@ Apart from being technophile, you will also find me hitting gym.
 - Total Public Repositories: ```7```
 - Total Starred Repositories: ```5```
 
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitjain17&show_icons=true&border_color=2e4058&include_all_commits=true&count_private=true&theme={})
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitjain17&show_icons=true&border_color=2e4058&include_all_commits=true&count_private=true)
 
-![Harshit's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitjain17&theme=vue)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitjain17)
+![Harshit's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitjain17&theme=vue&count_private=true)
