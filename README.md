@@ -59,6 +59,6 @@ Apart from being technophile, you will also find me hitting gym.
 
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitjain17&show_icons=true&border_color=2e4058&include_all_commits=true&count_private=true&theme={})
 
-![Harshit's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={harshitjain17}&theme=vue)
+![Harshit's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitjain17&theme=vue)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={harshitjain17})
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitjain17)
