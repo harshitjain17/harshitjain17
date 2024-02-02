@@ -17,9 +17,9 @@
 <hr/>
 
 ### About Me :
-I'm a junior majoring in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at [The Pennsylvania State University](https://www.psu.edu/) who has always loved the scalability of tech solutions to challenging problems. My goal is to go from someone who observes the tech reforms to the person who creates them.
+I'm a senior majoring in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at [The Pennsylvania State University](https://www.psu.edu/) who has always loved the scalability of tech solutions to challenging problems. My goal is to go from someone who observes the tech reforms to the person who creates them.
 
-Apart from being technophile, you will also find me hitting gym. 
+Apart from being a technophile, you will also find me hitting the gym. 
 
 <hr/>
 
@@ -53,7 +53,7 @@ Apart from being technophile, you will also find me hitting gym.
 <hr/>
 
 ### :fire: My Stats :
-- Total Private Repositories: ```4```
+- Total Private Repositories: ```5```
 - Total Public Repositories: ```11```
 - Total Starred Repositories: ```6```
 
