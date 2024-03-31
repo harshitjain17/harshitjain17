@@ -53,9 +53,9 @@ Apart from being a technophile, you will also find me hitting the gym.
 <hr/>
 
 ### :fire: My Stats :
-- Total Private Repositories: ```5```
-- Total Public Repositories: ```11```
-- Total Starred Repositories: ```6```
+- Total Private Repositories: ```3```
+- Total Public Repositories: ```14```
+- Total Starred Repositories: ```7```
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img style="height: 100%; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=harshitjain17&show_icons=true&border_color=2e4058&include_all_commits=true&count_private=true" />
