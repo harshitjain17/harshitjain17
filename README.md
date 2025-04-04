@@ -34,7 +34,7 @@
 
 ### 📫 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/harshitjain17)
-- 📩 [harshitj.cs@gmail.com](harshitj.cs@gmail.com)
+- 📩 harshitj.cs@gmail.com
 - 💼 [Resume](https://github.com/harshitjain17/Resume/blob/master/harshit_jain_resume.pdf)
 
 ---
