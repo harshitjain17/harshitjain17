@@ -16,7 +16,7 @@
     <!-- Tech Arsenal -->
     <td width="50%" valign="top" align="center" style="border: none;">
       <h3>🛠️ Tech Arsenal</h3>
-      <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,aws,azure,gcp,docker,graphql,postgresql,jenkins,git,linux"/>
+      <img src="https://skillicons.dev/icons?i=python,go,java,cpp,js,ts,react,nextjs,nodejs,aws,azure,gcp,docker,graphql,postgresql,jenkins,git,linux"/>
     </td>
     <!-- Featured Project -->
     <td width="50%" valign="top" align="center" style="border: none;">
