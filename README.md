@@ -4,7 +4,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 👨‍💻 Software Engineer @Hughes (Aeronautical Team) | AI + Cloud Systems
+- 👨‍💻 Software Engineer @Microsoft | Cloud + AI
 - 🧠 Azure AI Engineer Associate (Certified) | Cloud: AWS • GCP • Azure
 - 🎓 CS @Penn State ‘24 | TA @CodePath
 - 🛠️ Built AI systems for video analysis, flight analytics, & RAG chatbots
