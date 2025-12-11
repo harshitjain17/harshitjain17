@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Harshit Jain</h1>
-<h3 align="center">Software Engineer | Azure AI Certified | Cloud-Native & AI Solutions Builder</h3>
+<h3 align="center">Software Engineer at Microsoft | Azure AI Certified | Cloud-Native & AI Solutions Builder</h3>
 
 ---
 
 ### 🧑‍💻 About Me
-- 👨‍💻 Software Engineer @Microsoft | Cloud + AI
+- 👨‍💻 Software Engineer at Microsoft | Cloud + AI
 - 🧠 Azure AI Engineer Associate (Certified) | Cloud: AWS • GCP • Azure
 - 🎓 CS @Penn State ‘24 | TA @CodePath
 - 🛠️ Built AI systems for video analysis, flight analytics, & RAG chatbots
