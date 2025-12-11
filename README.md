@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harshit Jain</h1>
-<h3 align="center">Software Engineer at Microsoft | Azure AI Certified | Cloud-Native & AI Solutions Builder</h3>
+<h3 align="center">Software Engineer at Microsoft | Azure AI Certified | Cloud-Native & AI </h3>
 
 ---
 
